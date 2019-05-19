@@ -1,1 +1,1 @@
-# JavaBubbleSorting
+An app demonstrating the use of abstract data types and a bubble sorting algorithm. 
